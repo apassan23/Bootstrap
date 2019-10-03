@@ -1,0 +1,30 @@
+body {
+     font-family: 'MontSerrat', 'sans-serif';
+     font-size: 20px;
+}
+
+.font-heading {
+     font-family: 'Acme', 'sans-serif';
+}
+
+.height {
+     min-height: 100vh;
+}
+
+.title-underline {
+     width: 150px;
+     height: 10px;
+     margin: 0 auto;
+}
+
+.height-80 {
+     min-height: 70vh;
+}
+
+.about-picture {
+     background: url(../img/apple-browser-creative-3080.jpg);
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
